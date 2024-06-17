@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Tableau, SQL & Python.
 - 📫 I can be reached at nancykolaski@gmail.com 
 - 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I have worked the past 16 years in healthcare as an Occupational Therapist.
+- ⚡ Fun fact: I have worked the past 16 years in healthcare in adult inpatient hospital settings as an Occupational Therapist.
 
 <!---
 Nancy-Kolaski/Nancy-Kolaski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
