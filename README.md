@@ -5,8 +5,8 @@
 This Instacart Analysis was performed in order to better understand customer behavior and sales patterns to adapt marketing strategies for further sales growth.
 ## Data & Tools
 The datasets comprise of information on the following parameters:
-- orders
+- orders [link](/Documentation/orders.csv)
 - products
 - departments
 The original datasets can be found
-[here](https://github.com/user-attachments/files/02Data)
+[here](https://github.com/user-attachments/files/'02 Data'.md)
