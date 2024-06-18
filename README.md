@@ -1,11 +1,11 @@
-- 👋 Hi, I’m @Nancy-Kolaski
-- 👀 I’m interested in securing a data analyst role.
-- 🌱 I’m currently working towards competion of data analytics course at Career Foundry.
-- 📫 I can be reached at nancykolaski@gmail.com.
-- 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I have worked the past 16 years in healthcare in adult inpatient hospital settings as an Occupational Therapist.
+# Instacart Basket Analysis -Career Foundry
+## Objective 
+<img width="260" alt="Instacart_logo " src="https://github.com/Nancy-Kolaski/Python-Instacart-Analysis/assets/172224909/e847a74b-0a70-43f6-8bc9-2cb4a158f430">
 
-<!---
-Nancy-Kolaski/Nancy-Kolaski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This Instacart Analysis was performed in order to better understand customer behavior and sales patterns to adapt marketing strategies for further sales growth.
+## Data & Tools
+The datasets comprise of information on the following parameters:
+- orders
+- products
+- departments
+The original datasets can be found here
