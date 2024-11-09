@@ -11,7 +11,7 @@ This analysis for Instacart was performed in order to better understand customer
 - Are there certain types of products that are more popular than others? Which departments have hae the highest frequency of product orders?
 
 ## Data & Tools
-### Data
+### [Data]("https://www.instacart.com/datasets/grocery-shopping-2017")
 The datasets comprise of information on the following parameters:
 - orders 
 - products
