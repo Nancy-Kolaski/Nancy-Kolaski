@@ -11,12 +11,17 @@ This analysis for Instacart was performed in order to better understand customer
 - Are there certain types of products that are more popular than others? Which departments have hae the highest frequency of product orders?
 
 ## Data & Tools
-### [Data]("https://www.instacart.com/datasets/grocery-shopping-2017")
+### Data 
+
 The datasets comprise of information on the following parameters:
 - orders 
 - products
 - departments
+- 
+[data link](https://www.instacart.com/datasets/grocery-shopping-2017) 
 
+
+  
 ### Tools
 The following python libraries were used for this project
 - pandas (for data analysis)
