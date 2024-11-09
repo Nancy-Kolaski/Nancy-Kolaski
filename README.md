@@ -17,7 +17,7 @@ The datasets comprise of information on the following parameters:
 - orders 
 - products
 - departments
-- 
+  
 [data link](https://www.instacart.com/datasets/grocery-shopping-2017) 
 
 
